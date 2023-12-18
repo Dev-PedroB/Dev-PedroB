@@ -8,7 +8,7 @@
 
 💬 My main interests are C#, Angular, Flutter, Javascript and UX Design.
 
-📫 How to reach me mindset.epico@gmail.com.
+📫 How to reach me dev.pedrobraga@gmail.com.
 
 ⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Movies and TV Series.
 
