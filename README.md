@@ -10,7 +10,7 @@
 
 📫 How to reach me:
 - dev.pedrobraga@gmail.com.
-- linkedin.com/in/dev-pedro-braga/
+- www.linkedin.com/in/dev-pedro-braga/
 
 ⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Movies and TV Series.
 
