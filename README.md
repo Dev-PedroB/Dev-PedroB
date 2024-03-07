@@ -21,9 +21,11 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,react,angular,mysql,azure" />
   </a>
 </p>
-<br>
-<br>
-<br>
+
+<p align="center">
+  <img src="https://github.com/Pedro-Prev/Pedro-Prev/blob/main/Dev.gif"/>
+</p>
+
 <p align="center">
 Success is the sum of small efforts repeated day after day
 </p>
