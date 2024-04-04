@@ -8,6 +8,8 @@
 
 💬 My main interests are C#, Angular, Flutter, Javascript and UX Design.
 
+🧠 Soft Skills im good at: Team Work, Critical Thinking, Time Management, Communicative, Organized, Proactive.
+
 📫 How to reach me:
 - dev.pedrobraga@gmail.com.
 - www.linkedin.com/in/dev-pedro-braga/
