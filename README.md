@@ -6,12 +6,12 @@
 
 🔭 I’m currently working at Prevenir Assistencial.
 
-💬 My main interests are C#, Angular, Flutter, Javascript and UX Design.
+💬 My main interests are C#, React, Javascript, SQL and UX Design.
 
 🧠 Soft Skills im good at: Team Work, Critical Thinking, Time Management, Communicative, Organized, Proactive.
 
 📫 How to reach me:
-- dev.pedrobraga@gmail.com.
+- dev.pedrobraga@gmail.com
 - www.linkedin.com/in/dev-pedro-braga/
 
 ⚡ Always keen on 🍖 Churrasco, 🧀 Pão de Queijo, 🎮 Games, ⚔️ D&D, 🍿 Movies and TV Series.
