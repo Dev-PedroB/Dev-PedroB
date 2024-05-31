@@ -4,7 +4,7 @@
 
 💻 A new Programmer and TI Analyst from Belo Horizonte - MG - Brazil.
 
-🔭 I’m currently working at Prevenir Assistencial.
+💼 I’m currently working at Prevenir Assistencial.
 
 💬 My main interests are C#, React, Javascript, SQL and UX Design.
 
