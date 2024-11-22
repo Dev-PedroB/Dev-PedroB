@@ -2,13 +2,13 @@
 
 <br>
 
-💻 A new Programmer and TI Analyst from Belo Horizonte - MG - Brazil.
+💻 Software Developer and IT Analyst from Belo Horizonte - MG - Brazil.
 
-💼 I’m currently working at Prevenir Assistencial.
+💼 I’m currently working at Prevenir Assistencial LTDA.
 
 💬 My main interests are C#, React, Javascript, SQL and UX Design.
 
-🧠 Soft Skills im good at: Team Work, Critical Thinking, Time Management, Communicative, Organized, Proactive.
+🧠 Soft Skills I'm good at: Teamwork, Critical Thinking, Time Management, Communication, Organization, Proactivity, and Dedication to everything I do.
 
 📫 How to reach me:
 - dev.pedrobraga@gmail.com
