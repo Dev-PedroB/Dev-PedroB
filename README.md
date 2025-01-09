@@ -4,7 +4,7 @@
 
 💻 Software Developer and IT Analyst from Belo Horizonte - MG - Brazil.
 
-💼 I’m currently working at Prevenir Assistencial LTDA.
+💼 I’m currently working at BillApp.
 
 💬 My main interests are C#, React, Javascript, SQL and UX Design.
 
