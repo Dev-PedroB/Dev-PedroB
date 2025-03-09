@@ -8,7 +8,7 @@
 
 💬 My main interests are C#, React, Javascript, SQL and UX Design.
 
-🧠 Soft Skills I'm good at: Teamwork, Critical Thinking, Time Management, Communication, Organization, Proactivity, and Dedication to everything I do.
+🧠 Soft Skills I'm good at: Teamwork, Critical Thinking, Time Management, Communication, Organization, Adaptability, Proactivity, and Dedication.
 
 📫 How to reach me:
 - dev.pedrobraga@gmail.com
