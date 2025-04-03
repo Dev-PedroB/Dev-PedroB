@@ -4,7 +4,7 @@
 
 💻 Software Developer and IT Analyst from Belo Horizonte - MG - Brazil.
 
-💼 I’m currently working at BillApp Instituição de Pagamento Ltda.
+💼 I’m currently working at PAGAR Instituição de Pagamento Ltda.
 
 💬 My main interests are C#, Javascript, React, Node.js, SQL and UX Design.
 
