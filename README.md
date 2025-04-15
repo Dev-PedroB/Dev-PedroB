@@ -10,6 +10,8 @@
 
 🧠 Soft Skills I'm good at: Teamwork, Critical Thinking, Time Management, Communication, Organization, Adaptability, Proactivity, and Commitment.
 
+🧩 Outside of work, I enjoy gaming, playing TTRPGs, savoring craft beer, developing games in Godot, goofing around as Spider-Man with my kid, collecting miniatures, and experimenting with 3D printing.
+
 📫 How to reach me:
 - dev.pedrobraga@gmail.com
 - www.linkedin.com/in/dev-pedro-braga/
