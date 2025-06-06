@@ -10,7 +10,7 @@
 
 🧠 Soft Skills I'm good at: Teamwork, Critical Thinking, Time Management, Communication, Organization, Adaptability, Proactivity, and Commitment.
 
-🧩 Outside of work, I enjoy gaming, playing TTRPGs, savoring craft beer, developing silly games with Godot or threejs, goofing around as Spider-Man with my kid, collecting miniatures, and experimenting with 3D printing.
+🧩 Outside of work, I enjoy gaming, playing TTRPGs, savoring craft beer, developing silly games with Godot or Babylon.js, goofing around as Spider-Man with my kid, collecting miniatures, and experimenting with 3D printing.
 
 📫 How to reach me:
 - dev.pedrobraga@gmail.com
