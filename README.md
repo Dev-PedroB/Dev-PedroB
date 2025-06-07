@@ -6,7 +6,7 @@
 
 💼 I’m currently working at PAGAR Instituição de Pagamento Ltda.
 
-💬 My main interests are C#, Javascript, React, Node.js, SQL and UX Design.
+💬 My main interests are Javascript, React, Node.js, SQL and UX Design.
 
 🧠 Soft Skills I'm good at: Teamwork, Critical Thinking, Time Management, Communication, Organization, Adaptability, Proactivity, and Commitment.
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,cs,dotnet,postgres,mongodb,godot" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,cs,dotnet,postgres,mongodb" />
   </a>
 </p>
 
